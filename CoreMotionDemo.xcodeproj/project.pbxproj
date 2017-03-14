@@ -12,6 +12,7 @@
 		F1C614EA1E766106006238A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1C614E81E766106006238A4 /* Main.storyboard */; };
 		F1C614EC1E766106006238A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C614EB1E766106006238A4 /* Assets.xcassets */; };
 		F1C614EF1E766106006238A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1C614ED1E766106006238A4 /* LaunchScreen.storyboard */; };
+		F1C614F91E766DA1006238A4 /* timg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F1C614F81E766DA1006238A4 /* timg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F1C614EB1E766106006238A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1C614EE1E766106006238A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1C614F01E766106006238A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1C614F81E766DA1006238A4 /* timg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = timg.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F1C614EB1E766106006238A4 /* Assets.xcassets */,
 				F1C614ED1E766106006238A4 /* LaunchScreen.storyboard */,
 				F1C614F01E766106006238A4 /* Info.plist */,
+				F1C614F81E766DA1006238A4 /* timg.jpg */,
 			);
 			path = CoreMotionDemo;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1C614F91E766DA1006238A4 /* timg.jpg in Resources */,
 				F1C614EF1E766106006238A4 /* LaunchScreen.storyboard in Resources */,
 				F1C614EC1E766106006238A4 /* Assets.xcassets in Resources */,
 				F1C614EA1E766106006238A4 /* Main.storyboard in Resources */,
